@@ -14,6 +14,7 @@ The project is structured into five parts
 * `eldar.ged` - Elves and half-elves
 * `casari.ged` - Dwarves
 * `periandi.ged` - Hobbits
+* `arda.ged` - Everything merged together
 
 ## Licence
 
